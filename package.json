@@ -1,21 +1,22 @@
 {
-  "name": "node-arduino-blink",
-  "version": "0.0.1",
-  "description": "Node.js connect with Arduino using Johnny-Five",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-	"johnny-five": "0.7.x"	
-  },
-  "keywords": [
-    "node.js",
-    "arduino",
-    "blink",
-    "LED",
-    "johnny-five"
-  ],
-  "author": "",
-  "license": "MIT"
+    "name": "node-arduino-blink",
+    "version": "0.0.1",
+    "description": "Node.js connect with Arduino using Johnny-Five",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "johnny-five": "0.7.x",
+        "express": "3.x.x"
+    },
+    "keywords": [
+        "node.js",
+        "arduino",
+        "blink",
+        "LED",
+        "johnny-five"
+    ],
+    "author": "",
+    "license": "MIT"
 }
