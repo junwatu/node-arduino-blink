@@ -1,4 +1,5 @@
-node-arduino-blink
-==================
+Node Arduino LED Blink
+=======================================
 
-Controlling LED blink on Arduino with Node.js application
+Arduino LED Blink Controlled By Node.js
+
